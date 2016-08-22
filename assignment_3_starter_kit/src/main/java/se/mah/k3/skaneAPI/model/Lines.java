@@ -1,5 +1,4 @@
 package se.mah.k3.skaneAPI.model;
-
 import java.util.ArrayList;
 
 public class Lines {

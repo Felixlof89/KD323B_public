@@ -1,7 +1,6 @@
 package se.mah.k3.skaneAPI.model;
-
 /**
- * Contains all information for an individual station 
+ * Contains all information for an individual station
  * @author K3LARA
  *
  */

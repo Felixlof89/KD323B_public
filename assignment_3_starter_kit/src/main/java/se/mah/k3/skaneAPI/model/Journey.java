@@ -1,5 +1,6 @@
 package se.mah.k3.skaneAPI.model;
 
+
 import java.util.Calendar;
 
 /**
@@ -98,8 +99,11 @@ public class Journey {
     public void setArrTimeDeviation(String arrTimeDeviation) {
         this.arrTimeDeviation = arrTimeDeviation;
     }
+
     public void setStartStation(Station startStation) {
         this.startStation = startStation;
+
+
     }
     public void setEndStation(Station endStation) {
         this.endStation = endStation;
